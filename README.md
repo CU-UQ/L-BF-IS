@@ -1,12 +1,19 @@
 # Langevin Bi-fidelity Importance Sampling
 
-The paper is available at [arXiv]().
+The paper is available at [arXiv](https://arxiv.org/abs/2503.17796).
 
 ## Referecing this code
 
 If you use this code in any of your own work, please reference our paper:
 ```
-temp
+@misc{cheng2025langevin,
+      title={Langevin Bi-fidelity Importance Sampling for Failure Probability Estimation}, 
+      author={Nuojin Cheng and Alireza Doostan},
+      year={2025},
+      eprint={2503.17796},
+      archivePrefix={arXiv},
+      primaryClass={stat.CO}
+}
 ```
 
 ## Description of code
