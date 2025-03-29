@@ -20,7 +20,7 @@ If you use this code in any of your own work, please reference our paper:
 
 ### Download Data
 
-Download data from [here]() as `./data`
+Download data from [here](https://zenodo.org/records/15104070?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImJhMjAyYzFhLTAzODUtNDMyZS1iOTY3LTYyODVhNGE0YzA0MSIsImRhdGEiOnt9LCJyYW5kb20iOiI5NTFkZDgzYWEwOTU4N2MxZDIzZDg1NWQyMmMyZWIwNyJ9.VCr7bANk_2FZhtg7Aak8jT3Zgc4maw0oXp8hkNzPLAoHp6Q5POPcCJKD_dORz-bOfYa5d9S3lKCK_YZnC6ZNaA) as `./data`
 
 ### Reproduce results
 
